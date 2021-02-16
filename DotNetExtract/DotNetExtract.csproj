@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk">
+	<PropertyGroup>
+		<OutputType>Exe</OutputType>
+		<TargetFramework>netcoreapp3.1</TargetFramework>
+		<PackAsTool>true</PackAsTool>
+		<IsPackable>true</IsPackable>
+		<Authors>Hamed Fathi</Authors>
+		<Company />
+		<PublishRepositoryUrl>true</PublishRepositoryUrl>
+		<Version>0.0.9</Version>
+		<PackageId>dotnet-extract</PackageId>
+		<AssemblyName>dotnet-extract</AssemblyName>
+		<ServerGarbageCollection>true</ServerGarbageCollection>
+		<DebugType>embedded</DebugType>
+		<EmbedUntrackedSources>true</EmbedUntrackedSources>
+		<RootNamespace>DotNetExtract</RootNamespace>
+		<Description>A .NET global tool to extract embedded resource files.</Description>
+		<PackageProjectUrl>https://github.com/dotnet-toolbelt/dotnet-extract</PackageProjectUrl>
+		<RepositoryUrl>https://github.com/dotnet-toolbelt/dotnet-extract</RepositoryUrl>
+		<PackageLicenseExpression>MIT</PackageLicenseExpression>
+	</PropertyGroup>
+	<ItemGroup>
+		<PackageReference Include="McMaster.Extensions.CommandLineUtils" Version="3.0.0" />
+	</ItemGroup>
+</Project>
