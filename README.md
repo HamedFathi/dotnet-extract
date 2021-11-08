@@ -1,3 +1,6 @@
+![folder](https://user-images.githubusercontent.com/8418700/140723829-35e676cb-92bd-4619-a9da-caedd3bfe809.png)
+
+
 You can find the Nuget package [here](https://www.nuget.org/packages/dotnet-extract).
 
 ## Recipes
@@ -29,3 +32,7 @@ dotnet tool uninstall dotnet-extract --global
 ```bash
 dotnet extract -s SOURCE_FOLDER -d DESTINATION_FOLDER -p .*Areas.* -r ask
 ```
+
+<hr/>
+
+<div>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
