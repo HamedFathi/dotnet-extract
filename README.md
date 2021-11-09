@@ -1,9 +1,6 @@
-![folder](https://user-images.githubusercontent.com/8418700/140723829-35e676cb-92bd-4619-a9da-caedd3bfe809.png)
+![dll-file](https://user-images.githubusercontent.com/8418700/140990041-669c2c22-197d-4618-a6a4-39f92686ffdb.png)
 
-
-You can find the Nuget package [here](https://www.nuget.org/packages/dotnet-extract).
-
-## Recipes
+## [Nuget](https://www.nuget.org/packages/dotnet-extract)
 
 ```bash
 // install
@@ -35,4 +32,4 @@ dotnet extract -s SOURCE_FOLDER -d DESTINATION_FOLDER -p .*Areas.* -r ask
 
 <hr/>
 
-<div>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+<div>Icons made by <a href="" title="justicon">justicon</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
