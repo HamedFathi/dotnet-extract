@@ -13,7 +13,7 @@ dotnet tool update dotnet-extract --global
 dotnet tool uninstall dotnet-extract --global
 ```
 
-## Arguments
+## Options
 
 | Option           | Required   | Description |
 |------------------|:----------:|-------------|
@@ -24,7 +24,7 @@ dotnet tool uninstall dotnet-extract --global
 |-l\|--list     |No         |Get list of embedded resources. You can you regex pattern with this too.|
 |-e\|--extension|No|You can define your custom undetectable file extensions. The value is comma separated like `.txt.dat,.mkv,.cshtml.cs`|
 
-## Example
+## Usage
 
 ```bash
 dotnet extract -s SOURCE_FOLDER -d DESTINATION_FOLDER -p .*Areas.* -r ask
