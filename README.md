@@ -1,4 +1,4 @@
-![dll-file](https://user-images.githubusercontent.com/8418700/140990041-669c2c22-197d-4618-a6a4-39f92686ffdb.png)
+![extract_icon](https://user-images.githubusercontent.com/8418700/141079117-f3bfea84-3d9d-48fb-9303-7208e6f6cc8b.png)
 
 ## [Nuget](https://www.nuget.org/packages/dotnet-extract)
 
@@ -32,4 +32,4 @@ dotnet extract -s SOURCE_FOLDER -d DESTINATION_FOLDER -p .*Areas.* -r ask
 
 <hr/>
 
-<div>Icons made by <a href="" title="justicon">justicon</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+<div>Icon from <a href="https://www.iconfinder.com/" title="Iconfinder">https://www.iconfinder.com</a> under Creative Commons Attribution-Share Alike 3.0 Unported License.</div>
