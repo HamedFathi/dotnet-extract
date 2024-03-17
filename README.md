@@ -1,3 +1,7 @@
+> [!IMPORTANT] 
+> Introducing **HamedStack**! For all my latest libraries, visit: [Explore HamedStack](https://github.com/HamedStack). Replacements and updates are available at the link. Thank you for your support! The new version of this library is accessible via [HamedStack.GlobalTool.Extract](https://github.com/HamedStack/HamedStack.GlobalTool.Extract)
+---
+
 ![extract_icon](https://user-images.githubusercontent.com/8418700/141079117-f3bfea84-3d9d-48fb-9303-7208e6f6cc8b.png)
 
 ## [Nuget](https://www.nuget.org/packages/dotnet-extract)
